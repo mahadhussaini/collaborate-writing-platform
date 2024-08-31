@@ -13,7 +13,7 @@
 }
 
 .auth-container input {
-  width: calc(100% - 20px);
+  max-width: 95%;
   padding: 10px;
   margin-bottom: 10px;
   border: 1px solid #ccc;
